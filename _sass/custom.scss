@@ -1,0 +1,42 @@
+// Sticky footer
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1 0 auto;
+}
+footer {
+  flex-shrink: 0;
+}
+
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Slabo 27px', serif;
+}
+
+nav {
+  min-height: 60px;
+  .nav-logo {
+    width: 35px;
+    margin-right: 8px;
+  }
+  h2 {
+    margin-bottom: 0;
+  }
+}
+
+.map-container {
+  height: 100vh;
+}
+
+footer {
+  background-color: #565656;
+  color: #f7f7f7;
+}
