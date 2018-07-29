@@ -20,7 +20,7 @@ input: GFM
 exclude:
   - Gemfile
   - Gemfile.lock
-plugins:
+gems:
   - jekyll-maps
 maps:
   google:
