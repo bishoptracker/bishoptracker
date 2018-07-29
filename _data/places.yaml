@@ -15,3 +15,33 @@
   location:
     latitude: 34.052235
     longitude: -118.243683
+
+- title: "Ferns, Ireland - Bishop Brendan Comiskey (2002)"
+  url: "https://en.wikipedia.org/wiki/Brendan_Comiskey#Diocese_mired_in_clerical_sexual_abuse"
+  location:
+    latitude: 52.5898
+    longitude: -6.4953
+
+- title: "Kansas City-Saint Joseph, Missouri - Bishop Robert Finn (2015)"
+  url: "https://en.wikipedia.org/wiki/Robert_Finn_(bishop)#Criminal_conviction_for_failure_to_report_suspected_child_abuse"
+  location:
+    latitude: 39.0845
+    longitude: -94.563
+
+- title: "Autlán, Jalisco, Mexico - Bishop Gonzalo Galván Castillo (2015)"
+  url: "https://religionnews.com/2015/07/15/pope-francis-dumps-2-bishops-house-cleaning-continues/"
+  location:
+    latitude: 20.7615455
+    longitude: -103.3923815
+
+- title: "Derry, Ireland - Bishop Seamus Hegarty (2011)"
+  url: "https://en.wikipedia.org/wiki/Séamus_Hegarty#Episcopal_Ministry"
+  location:
+    latitude: 54.99167
+    longitude: -7.34167
+
+- title: "Vienna, Austria - Auxiliary Bishop Kurt Krenn (2004)"
+  url: "https://en.wikipedia.org/wiki/Kurt_Krenn#Abuse_scandal"
+  location:
+    latitude: 48.20833
+    longitude: 16.373064
