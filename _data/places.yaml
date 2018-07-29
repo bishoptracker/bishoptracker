@@ -4,7 +4,7 @@
     latitude: 40.735657
     longitude: -74.172363
 
-- title: "Boston, MA - Cardinal Bernard Law"
+- title: "Boston, MA - Cardinal Bernard Law (2002)"
   url: "https://en.wikipedia.org/wiki/Bernard_Francis_Law#Knowledge_of_sexual_abuse"
   location:
     latitude: 42.361145
@@ -45,3 +45,27 @@
   location:
     latitude: 48.20833
     longitude: 16.373064
+
+- title: "Ciudad del Este, Paraguay - Bishop Rogelio Ricardo Livieres Plano (2014)"
+  url: "https://www.washingtonpost.com/world/rogelio-livieres-plano-ousted-bishop-in-paraguay-dies-at-69/2015/08/15/f5a7f274-42bd-11e5-846d-02792f854297_story.html?noredirect=on&utm_term=.6ad9129c3096"
+  location:
+    latitude: -25.51667
+    longitude: -54.61667
+
+- title: "Dromore, Ireland - Bishop John Magee (2018)"
+  url: "https://en.wikipedia.org/wiki/John_Magee_(bishop)#Clerical_child_sex_abuse_inquiry"
+  location:
+    latitude: 51.8637
+    longitude: -8.1206
+
+- title: "Cloyne, Ireland - Bishop John McAreavey (2010)"
+  url: "https://en.wikipedia.org/wiki/John_McAreavey#Bishop"
+  location:
+    latitude: 54.415
+    longitude: -6.149
+
+- title: "Kildare and Leighlin, Ireland - Bishop James Moriarty (2010)"
+  url: "https://en.wikipedia.org/wiki/James_Moriarty_(bishop)"
+  location:
+    latitude: 53.1568
+    longitude: -6.9117
