@@ -20,6 +20,7 @@ input: GFM
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
 plugins:
   - jekyll-maps
 maps:
