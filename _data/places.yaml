@@ -69,3 +69,21 @@
   location:
     latitude: 53.1568
     longitude: -6.9117
+
+- title: "Ballarat, Australia - Bishop Ronald Mulkearns (1997)"
+  url: "https://en.wikipedia.org/wiki/Ronald_Mulkearns#Royal_Commission_into_child_sexual_abuse"
+  location:
+    latitude: -37.5623
+    longitude: 143.8607
+
+- title: "Limerick, Ireland - Bishop Donal Brendan Murray (2009)"
+  url: "https://en.wikipedia.org/wiki/Donal_Murray_(bishop)#Abuse_scandal"
+  location:
+    latitude: 52.66736
+    longitude: -8.652492
+
+- title: "St. Paul and Minneapolis, Minnesota - Archbishop John Clayton Nienstedt (2015)"
+  url: "https://en.wikipedia.org/wiki/Donal_Murray_(bishop)#Abuse_scandal"
+  location:
+    latitude: 44.9773
+    longitude: -93.2655
