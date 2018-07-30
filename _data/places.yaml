@@ -123,3 +123,21 @@
   location:
     latitude: 38.4405
     longitude: -122.7144
+
+- title: "Cardiff, Wales, Great Britain - Bishop John Aloysius Ward (2011)"
+  url: "https://en.wikipedia.org/wiki/John_Ward_(Archbishop_of_Cardiff)#Abuse_scandal"
+  location:
+    latitude: 51.48
+    longitude: -3.18
+
+- title: "San Diego, CA - Bishop Robert Brom (2013)"
+  url: "https://en.wikipedia.org/wiki/Robert_Brom#Abuse_scandal"
+  location:
+    latitude: 32.7174
+    longitude: -117.1628
+
+- title: "Phoenix, AZ - Bishop Thomas J. O'Brien (2002)"
+  url: "https://en.wikipedia.org/wiki/Thomas_J._O%27Brien_(bishop)#Sexual_abuse_scandal"
+  location:
+    latitude: 33.4486
+    longitude: -112.0773
