@@ -93,3 +93,33 @@
   location:
     latitude: -7.233249
     longitude: -35.887657
+
+- title: "Saint John's, Newfoundland, Canada - Archbishop Alphonsus Liguori Penney (1991)"
+  url: "https://en.wikipedia.org/wiki/Alphonsus_Liguori_Penney"
+  location:
+    latitude: 47.56
+    longitude: -52.71
+
+- title: "Saint Paul and Minneapolis, Minnesota - Bishop Lee Anthony Piché (2015)"
+  url: "https://en.wikipedia.org/wiki/Lee_A._Piché"
+  location:
+    latitude: 44.9700
+    longitude: -93.2660
+
+- title: "Zárate-Campana, Argentina - Bishop Rafael Eleuterio Rey (2006)"
+  url: "#"
+  location:
+    latitude: -34.08333
+    longitude: -59.03333
+
+- title: "Guam - Bishop Rafael Eleuterio Rey (2018)"
+  url: "https://www.americamagazine.org/politics-society/2018/03/16/vatican-finds-archbishop-apuron-accused-abuse-minors-guilty"
+  location:
+    latitude: 13.447046
+    longitude: 144.756212
+
+- title: "Santa Rosa, California - Bishop Daniel Francis Walsh (2011)"
+  url: "https://en.wikipedia.org/wiki/Daniel_F._Walsh"
+  location:
+    latitude: 38.4405
+    longitude: -122.7144
