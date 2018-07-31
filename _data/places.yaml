@@ -147,3 +147,27 @@
   location:
     latitude: 26.7056
     longitude: -80.0365
+
+- title: "Springfield, IL - Bishop Daniel L. Ryan (1999)"
+  url: "https://en.wikipedia.org/wiki/Daniel_L._Ryan"
+  location:
+    latitude: 39.799
+    longitude: -89.6444
+
+- title: "Sioux City IA - Bishop Lawrence D. Soens (1998)"
+  url: "https://en.wikipedia.org/wiki/Lawrence_Donald_Soens#Abuse_Scandal"
+  location:
+    latitude: 42.4967
+    longitude: -96.4059
+
+- title: "Baton Rouge, Louisiana - Bishop Joseph V. Sullivan (1982)"
+  url: "https://en.wikipedia.org/wiki/Joseph_Vincent_Sullivan"
+  location:
+    latitude: 30.4507
+    longitude: -91.1546
+
+- title: "Palm Beach, FL - Bishop Joseph Keith Symons (1998)"
+  url: "https://en.wikipedia.org/wiki/Joseph_Keith_Symons"
+  location:
+    latitude: 25.7743
+    longitude: -80.1937
