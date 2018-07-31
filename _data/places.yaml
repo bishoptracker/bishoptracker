@@ -171,3 +171,33 @@
   location:
     latitude: 25.7743
     longitude: -80.1937
+
+- title: "Santiago del Estero, Argentina - Bishop Juan Carlos Maccarone (2005)"
+  url: "https://en.wikipedia.org/wiki/Juan_Carlos_Maccarone"
+  location:
+    latitude: -27.78444
+    longitude: -64.26694
+
+- title: "Santa Fe de la Vera Cruz, Argentina - Archbishop Edgardo G. Storni (2009)"
+  url: "https://es.wikipedia.org/wiki/Edgardo_Gabriel_Storni#Acusación_de_abusos_sexuales"
+  location:
+    latitude: -31.641683
+    longitude: -60.705148
+
+- title: "Santa Fe de la Vera Cruz, Argentina - Archbishop Edgardo G. Storni (2009)"
+  url: "https://es.wikipedia.org/wiki/Edgardo_Gabriel_Storni#Acusación_de_abusos_sexuales"
+  location:
+    latitude: -31.641683
+    longitude: -60.705148
+
+- title: "Vienna, Austria - Cardinal Hans H. Groër (1998)"
+  url: "https://en.wikipedia.org/wiki/Hans_Hermann_Groër#Sexual_abuse_of_school_boys,_monks"
+  location:
+    latitude: 48.20833
+    longitude: 16.37303
+
+- title: "Brugge, Belgium - Bishop Roger J. Vangheluwe (2010)"
+  url: "https://en.wikipedia.org/wiki/Roger_Vangheluwe#Pre-scandal_public_statements_on_pedophilia"
+  location:
+    latitude: 51.209444444444
+    longitude: 3.22
